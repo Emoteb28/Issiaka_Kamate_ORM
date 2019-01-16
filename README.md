@@ -10,6 +10,6 @@ username = phpmyadmin
 password = mamann
 charset  = utf8
 collation= utf8_unicode_ci
-prefix   = 
+prefix   =   
  
 3. Lien Github 
